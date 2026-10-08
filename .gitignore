@@ -1,0 +1,7 @@
+hook/out/
+*.jks
+*.keystore
+# never commit keyboxes (they contain private keys)
+keybox*.xml
+*.zip
+__pycache__/
